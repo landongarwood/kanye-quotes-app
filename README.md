@@ -2,6 +2,12 @@
 
 This application displays random Kanye West quotes, built with Laravel, Livewire, and Laravel Sanctum for API token-based authentication. It includes a public API endpoint to fetch random quotes and a frontend to display them, with automatic refresh functionality.
 
+### Screenshots
+![Login Desktop](https://github.com/landongarwood/kanye-quotes-app/raw/main/screenshots/login-desktop.png)
+![Quotes Desktop](https://github.com/landongarwood/kanye-quotes-app/raw/main/screenshots/quotes-desktop.png)
+![Login Mobile](https://github.com/landongarwood/kanye-quotes-app/raw/main/screenshots/login-mobile.png)
+![Quotes Mobile](https://github.com/landongarwood/kanye-quotes-app/raw/main/screenshots/quotes-mobile.png)
+
 ## Prerequisites
 
 Ensure you have the following installed:
